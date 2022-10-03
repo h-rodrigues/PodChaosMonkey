@@ -1,0 +1,10 @@
+apiVersion: v2
+appVersion: "0.1.0"
+name: monkey
+description: Monkey Helm chart
+version: "0.1.0"
+maintainers:
+  - email: yugomail@gmail.com
+    name: HRodrigues
+sources:
+  - https://github.com/h-rodrigues/PodChaosMonkey

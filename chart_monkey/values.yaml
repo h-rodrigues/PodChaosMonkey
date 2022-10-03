@@ -1,0 +1,3 @@
+image: hrodrigues007/monkey:v2  # Container repositorui of the Omage
+schedule: "*/5 * * * *"
+namespace: workloads   #Namespace for Monkey to play
